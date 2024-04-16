@@ -29,7 +29,9 @@
       "brand": "Samsung",
       "category": "smartphones",
       "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
-      "images": ["https://cdn.dummyjson.com/product-images/3/1.jpg"]
+      "images": [
+        "https://cdn.dummyjson.com/product-images/3/1.jpg"
+      ]
     },
     {
       "id": 4,
@@ -51,40 +53,38 @@
       ]
     },
     {
-      "id": 5,
-      "title": "Huawei P30",
-      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-      "price": 499,
-      "discountPercentage": 10.58,
-      "rating": 4.09,
-      "stock": 32,
-      "brand": "Huawei",
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/5/1.jpg",
-        "https://cdn.dummyjson.com/product-images/5/2.jpg",
-        "https://cdn.dummyjson.com/product-images/5/3.jpg"
-      ]
+      "title": "bbbbbbb",
+      "price": 2000,
+      "stock": 123,
+      "description": "oooooo",
+      "id": 6
     },
     {
-      "id": 6,
-      "title": "MacBook Pro",
-      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
-      "price": 1749,
-      "discountPercentage": 11.02,
-      "rating": 4.57,
-      "stock": 83,
-      "brand": "Apple",
-      "category": "laptops",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/6/1.png",
-        "https://cdn.dummyjson.com/product-images/6/2.jpg",
-        "https://cdn.dummyjson.com/product-images/6/3.png",
-        "https://cdn.dummyjson.com/product-images/6/4.jpg"
-      ]
+      "title": "ssssss",
+      "price": 120,
+      "stock": 125,
+      "description": "bbbbbbbbbbb",
+      "id": 7
     }
   ],
-  "users": []
+  "users": [
+    {
+      "email": "chiviet@gmail.com",
+      "password": "$2a$10$DbQE9hSaasBlfE4l797JQ.DBZr6IXZxGGImpIsDI7P1.Xu0dPh2zu",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "email": "chiviet123@gmail.com",
+      "password": "$2a$10$pd.PFgBXF2uYPgPoajavA.q/F29LNz32oadeN0Yt55Um1z8GjJmuW",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "email": "chiviet296@gmail.com",
+      "password": "$2a$10$2Tua5duZwiaSPCpmvmeBc.UGK1NmL2t6PHiKszfDXbUJL686bX86G",
+      "role": "user",
+      "id": 3
+    }
+  ]
 }
